@@ -15,7 +15,7 @@
 Dosen Pengampu : Ibu Kartika Candra Kirana
 
 By Kelompok 5 :
-  - [] - Ricky Tirta Hardiyanta                         
+  - [200535626850] - Ricky Tirta Hardiyanta                         
   - [] - Norma Alfina                       
   - [] - Rafif Habibilah                 
 
