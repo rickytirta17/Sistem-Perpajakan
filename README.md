@@ -23,8 +23,8 @@ By Kelompok 5 :
 ## Compile & Preview
 Untuk menjalankan program, Compile lalu jalankan dengan menggunakan perintah sebagai berikut
 
-javac SistemPajak.java
-java SistemPajak
+- javac SistemPajak.java
+- java SistemPajak
 
 Untuk preview hasil dari program dapat dilihat sebagai berikut :
 
