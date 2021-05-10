@@ -29,7 +29,10 @@ Untuk menjalankan program, Compile lalu jalankan dengan menggunakan perintah seb
 Untuk preview hasil dari program dapat dilihat sebagai berikut :
 
 
-https://user-images.githubusercontent.com/83199747/117613015-61412b80-b190-11eb-9e37-acd75fc917af.mp4
+
+https://user-images.githubusercontent.com/83199747/117646214-b3487800-b1b5-11eb-91c4-863cd71880ed.mp4
+
+
 
 
 
