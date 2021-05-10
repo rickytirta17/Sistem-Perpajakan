@@ -20,10 +20,18 @@ By Kelompok 5 :
   - [200535626849] - Muhammad Rafif Habibillah                 
 
 ------------------------------------------------------------------------------
-  
+## Compile & Preview
+Untuk menjalankan program, Compile lalu jalankan dengan menggunakan perintah sebagai berikut
+
+javac SistemPajak.java
+java SistemPajak
+
 Untuk preview hasil dari program dapat dilihat sebagai berikut :
 
-https://user-images.githubusercontent.com/83199747/117556664-88ff9900-b095-11eb-95d3-59a5c650dff9.mp4
+
+https://user-images.githubusercontent.com/83199747/117613015-61412b80-b190-11eb-9e37-acd75fc917af.mp4
+
+
 
 ## Ketentuan Gaji Pokok
 
